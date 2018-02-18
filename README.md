@@ -10,9 +10,9 @@ Experiment with Arduino, Bluetooth module and Bluetooth API.
 * Led (3 colors in my case)
 
 ## How run it
-* Upload sketch (ble2.ino) to your Arduino
+* Upload sketch (`ble2.ino`) to your Arduino
 * Connect your module and led to Arduino
-* Open index.html locally or use [this link](https://binjo.ru/iot/)
+* Open `index.html` locally or use [this link](https://binjo.ru/iot/)
 * Profit
 
 ## How to connect
