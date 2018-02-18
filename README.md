@@ -14,4 +14,4 @@ Experiment with Arduino, Bluetooth module and Bluetooth API.
 
 * Connect your module and led to Arduino
   * Module
-  * GND to GND
+   * GND to GND
