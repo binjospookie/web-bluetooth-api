@@ -12,6 +12,5 @@ Experiment with Arduino, Bluetooth module and Bluetooth API.
 ## How run it
 * Upload sketch (ble2.ino) to your Arduino
 
-* Connect your module and led to Arduino
-  * Module
-   * GND to GND
+### Connect your module and led to Arduino
+
