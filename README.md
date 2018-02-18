@@ -1,5 +1,5 @@
 # bluetooth-api
-Experiment with Arduino, Bluetooth module and Bluetooth API.
+Experiment with Arduino, Bluetooth module and Web Bluetooth API.
 
 ***[Demo video here](https://binjo.ru/iot/demo.mp4)***
 
